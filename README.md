@@ -45,17 +45,3 @@ This project is focused on understanding and applying concepts of Essential Matr
    - Re-calculate the geometric error after optimization.
    - Report and comment on the results.
 
-## Requirements
-List any libraries or dependencies required for this project.
-
-## Installation
-Provide instructions on how to set up the project.
-
-## Usage
-Describe how to run the tasks and any relevant scripts.
-
-## Contributing
-Guidelines for contributing to this project.
-
-## License
-Specify the license under which this project is released.
